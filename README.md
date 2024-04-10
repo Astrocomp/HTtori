@@ -2,7 +2,7 @@
 
 This notebook and the results contained in it are an essential part of the following article and should be referred to when using it or parts of it:
 
-Matuszková et al. (Paper I, submitted).
+Matuszková et al. (Paper I, submitted): https://ui.adsabs.harvard.edu/abs/2024arXiv240316226M/abstract
 
 The notebook containts a full general relativistic analytic solution describing a radiation-pressure supported equilibrium fluid torus orbiting a rotating neutron star, the space-time of which is described by the Hartle-Thorne metric [1,2]. Functions for calculating important quantities of the metric and the shape of the equipotential surfaces for given parameters are included. The calculations of a torus surface follows Abramowicz et al. 2006, Blaes et al. 2006 and Horák et al. 2017 [3-5]. The calculations of a neutron star surface are based on Urbanec et al. 2013 [6].
 
